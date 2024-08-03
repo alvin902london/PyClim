@@ -1,4 +1,4 @@
-# PyClim: a series of Python modules, based around the matplotlib library, for the analysis of hourly weather data. It is intended as a resources for architectural / engineering / technology students and practitioners, to help develop early-stage bioclimatic design concepts. PyClim is organised around the following modules
+# PyClim: a series of Python modules, based around the matplotlib library, for the analysis of hourly weather data. It is intended as a resources for architectural / engineering / technology students and practitioners, to help develop early-stage bioclimatic design concepts. PyClim is organised around the following modules.
 
 - ClimAnalFunctions: functions relating to solar geometry, psychrometry and illumination.
 
